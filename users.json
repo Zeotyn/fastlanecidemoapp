@@ -1,0 +1,18 @@
+[
+  {
+    "id": "8db62040-77b4-4d50-9780-4a00d21efb0e",
+    "email": "dev@zeotyn.de",
+    "password_hash": "$2a$10$do.iBWca8zENcBY/ir4ereLQrpso.DOnVdvQLncKnFuXePoBln5ju",
+    "provider_credentials": [
+      {
+        "id": "c356462e-904a-486f-bcc6-a54c5525b097",
+        "email": "dev@zeotyn.de",
+        "full_name": "Clone User credentials",
+        "provider_name": "GitHub",
+        "type": "github",
+        "remote_host": "github.com",
+        "encrypted_api_token": "n3DATsko3nIW2KButdisd5ziX76BFf+meXVNTGLjJW5MrXS1jmFRbXt0GG9H\nbKJPPSxmGy5NND4cCga+KL+f4A==\n"
+      }
+    ]
+  }
+]
